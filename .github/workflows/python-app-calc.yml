@@ -29,3 +29,4 @@ jobs:
     - name: Python application
       run: |
         python calc.py
+        python pylint.py
