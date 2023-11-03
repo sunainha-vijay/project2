@@ -38,5 +38,6 @@ jobs:
       run: |
         pytest
     - name: Python application
-      run: python calc.c
+      run: |
+       python calc.c
       
