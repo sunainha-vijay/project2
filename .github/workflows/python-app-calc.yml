@@ -28,4 +28,4 @@ jobs:
     
     - name: Python application
       run: |
-        python calc1.py
+        python calc.py
